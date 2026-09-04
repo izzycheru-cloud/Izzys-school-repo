@@ -1,2 +1,8 @@
 
 body {background-color :aliceblue;}
+header {height: 100px; background-color: rgb(58, 143, 241); width: 100%;}
+nav {height: 25px; background-color: rgb(200, 200, 200);}
+main {height: 500px; background-color: rgb(240, 240, 240);}
+article {height: 500px; background-color: rgb(255, 255, 255); width: 70%; float: left; border-radius: 10px; margin: 5px; padding: 5px;}
+aside {height: 500px; background-color: rgb(220, 220, 220); width: 25%; float: right;}
+footer {height: 200px; background-color: rgb(240, 140, 26);}
